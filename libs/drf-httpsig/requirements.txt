@@ -1,0 +1,4 @@
+# Known to work with these versions. Versions bracketed for safety.
+httpsig
+djangorestframework
+django
